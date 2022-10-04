@@ -1,3 +1,5 @@
+touch README.md
+JENNIFER UCHE
 echo "# uchicago-cs-git-tutorial" >> README.md
 git init
 git add README.md
